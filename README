@@ -20,9 +20,6 @@ This is desugared into a bunch of ifs. You can use
 strings, integers, named parameters and a _ (wildcard)
 so far. 
 
-Here's the commit. It's quite simple:
-https://github.com/shf/functional-coffee-script/commit/1370924e837c631e47bd1ad027b618bce885e5d8
-
 ---
 
 Arrows.
